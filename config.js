@@ -10,7 +10,7 @@ module.exports = {
     CAPTION: process.env.CAPTION || "POWERED BY MRSHABAN432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
-    READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
+    READ_MESSAGE: process.env.READ_MESSAGE || "SHABAN-SOBX-MD~CYgRmJoZ#upxa77eMmqrMo4zqnF7CQVb0wX1-RHqKM5rFuQuoM9E", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
