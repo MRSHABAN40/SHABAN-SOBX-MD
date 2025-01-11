@@ -8,29 +8,29 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN40%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/MRSHABAN40?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MRSHABAN40?label=Followers&style=social"></a>
 <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/MRSHABAN40/SHABAN-SOBX-MD?&style=social"></a>
-<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRSHABAN40/SHABAN-SOBX-MD?style=social"></a>
-<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MRSHABAN40/SHABAN-SOBX-MD?label=Watching&style=social"></a>
+<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxicali18458/SHABAN-SOBX-MD?style=social"></a>
+<a href="https://github.com/Toxic/Ali-SOBX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MRSHABAN40/SHABAN-SOBX-MD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/MRSHABAN40/SHABAN-SOBX-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/Toxic/Ali-Devil-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=MR%20SHABAN&color=blue&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=Toxic &color=blue&style=plastic" alt="Developer Badge">
 </p>        
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Toxicali18458/inside-Toxic-Ali"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
  
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923059395959)
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O) 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq)
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRSHABAN40)
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923444776272)
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaqSxpQ5fM5Ukj21Af2f) 
+[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@toxicxgaming18?si=-yCLHtPCvnNNp5aL)
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toxicali18458)
 
-<a          href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a          href="https://github.com/Toxic ali18458/Toxic-Ali-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
  
-![license](https://img.shields.io/github/license/MRSHABAN40/SHABAN-SOBX-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/Toxicali18458/Toxic-Ali-MD?color=green&label=License&style=plastic)
 
-### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/MRSHABAN40/SHABAN-SOBX-MD/blob/main/LICENSE)
+### 𝗟𝗜𝗖𝗘𝗡𝗦𝗘: [Click here](https://github.com/Toxicali18458/Toxic-Ali-MD/blob/main/LICENSE)
 -------------------------
 
 ***BOT FEATURES 💌***
@@ -41,13 +41,13 @@
 
 ---------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
-<a href="https://github.com/MRSHABAN40/SHABAN-SOBX-MD/fork"><img title="SHABAN-SOBX-MD" src="https://img.shields.io/badge/FORK-SHABAN SOBX MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Toxicali18458/Toxic-Ali-MD/fork"><img title="Toxic-Ali-MD" src="https://img.shields.io/badge/FORK-SHABAN SOBX MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
 [![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://shaban-sobx-md-7b3eadacd0ee.herokuapp.com/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
- [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
+ [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Toxicali18458/Toxic-Ali-MD)
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗞𝗢𝗬𝗘𝗕)](https://git.io/typing-svg)
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=shaban-sobx-md&repository=MRSHABAN40%2FSHABAN-SOBX-MD&branch=main&builder=dockerfile&instance_type=free&regions=was&env%5BPREFIX%5D=.&env%5BSESSION_ID%5D=&env%5BMODE%5D=public&env%5BAUTO_STATUS_SEEN%5D=true&env%5BAUTO_TYPING%5D=false&env%5BANTI_LINK%5D=true&env%5BAUTO_REACT%5D=false&env%5BOWNER_NUMBER%5D=)
